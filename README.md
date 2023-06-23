@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on tools for QA <br>🌱 I’m currently learning about testing automation<br>
+🔭 I’m currently learning about testing automation<br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gabriel-schramm) 
 
